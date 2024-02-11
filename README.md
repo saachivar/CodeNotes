@@ -1,0 +1,2 @@
+# CodeNotes
+This is a project created on Google Apps Script that allows one to open a sidebar that can easily change the font between Arial and Courier New on a Google Docs document through a toggle. This is useful when taking notes in a computer science class, in which one may need to switch between writing code examples, which would be on a typewriter font like Courier New, and elaborating on those notes, whcih would be done with a Serif font like Arial.
